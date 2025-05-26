@@ -38,5 +38,5 @@ def downloadYear(stock, interval, year):
 
 
 print("Starting...")
-downloadYear("IBM", "5min", "2022")
+downloadYear("IBM", "5min", "2024")
 print("Done!")
